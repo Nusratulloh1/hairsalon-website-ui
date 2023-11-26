@@ -41,14 +41,14 @@
                                 class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Регистрация</button>
                         </div>
                         <div class="d-flex pt-1 m-n1">
-                            <a class="btn btn-lg-square btn-dark text-primary m-1" href=""><i
-                                    class="fab fa-twitter"></i></a>
-                            <a class="btn btn-lg-square btn-dark text-primary m-1" href=""><i
-                                    class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-lg-square btn-dark text-primary m-1" href=""><i
-                                    class="fab fa-youtube"></i></a>
-                            <a class="btn btn-lg-square btn-dark text-primary m-1" href=""><i
-                                    class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-lg-square btn-dark text-primary m-1" target="__blank"
+                                href="https://vk.com/muhammadshodmon"><i class="fab fa-vk"></i></a>
+                            <a class="btn btn-lg-square btn-dark text-primary m-1" target="__blank" href="https://wa.me/qr/LN5AIRBVFF7YO1"><i
+                                    class="fab fa-whatsapp"></i></a>
+                            <a class="btn btn-lg-square btn-dark text-primary m-1" target="__blank"
+                                href="https://www.youtube.com/@SARTAROSH"><i class="fab fa-youtube"></i></a>
+                            <a class="btn btn-lg-square btn-dark text-primary m-1" target="__blank"
+                                href="https://www.instagram.com/muhammad_shodmon"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>

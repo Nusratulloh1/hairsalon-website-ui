@@ -195,6 +195,9 @@
 
 
 /*** Team ***/
+.team-item .team-img{
+    height: 400px;
+}
 .team-item .team-img::before,
 .team-item .team-img::after {
     position: absolute;
