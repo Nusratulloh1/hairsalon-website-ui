@@ -8,14 +8,14 @@
                         <div class="d-flex flex-column">
                             <img class="img-fluid w-75 align-self-end" src="@/assets/images/about.jpg" alt="">
                             <div class="w-50 bg-secondary p-5" style="margin-top: -25%;">
-                                <h1 class="text-uppercase text-primary mb-3">25 Years</h1>
-                                <h2 class="text-uppercase mb-0">Experience</h2>
+                                <h1 class="text-uppercase text-primary mb-3">16 Годы</h1>
+                                <h2 class="text-uppercase mb-0">Опыт</h2>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                        <p class="d-inline-block bg-secondary text-primary py-1 px-4">About Us</p>
-                        <h1 class="text-uppercase mb-4">More Than Just A Haircut. Learn More About Us!</h1>
+                        <p class="d-inline-block bg-secondary text-primary py-1 px-4">О нас</p>
+                        <h1 class="text-uppercase mb-4">Больше, чем просто Стрижка. Узнайте о нас больше!</h1>
                         <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
                             erat ipsum
                             et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>

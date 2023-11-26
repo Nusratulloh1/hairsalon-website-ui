@@ -8,13 +8,17 @@
                         <img class="w-100" src="@/assets/images/carousel-1.jpg" alt="Image">
                         <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                             <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                                <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">We Will Keep You
-                                    An Awesome Look
+                                <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">МЫ ПОЗАБОТИМСЯ О
+                                    ТОМ, ЧТОБЫ ВЫ ВЫГЛЯДЕЛИ ПОТРЯСАЮЩЕ
                                 </h1>
                                 <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i
-                                        class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
-                                <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i
-                                        class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
+                                        class="fa fa-map-marker-alt text-primary me-3"></i>Псковская обл. Порхов г.
+                                    Кузнецова ул. дом 3</h4>
+                                <h4 class="text-white text-uppercase mb-4 animated slideInDown">
+                                    <a href="tel:+7 909 573 90 90">
+                                        <i class="fa fa-phone-alt text-primary me-3"></i>+7 909 573 90 90
+                                    </a>
+                                </h4>
                             </div>
                         </div>
                     </div>
@@ -22,13 +26,16 @@
                         <img class="w-100" src="@/assets/images/carousel-2.jpg" alt="Image">
                         <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
                             <div class="mx-sm-5 px-5" style="max-width: 900px;">
-                                <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">Luxury Haircut at
-                                    Affordable
-                                    Price</h1>
+                                <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">РОСКОШНАЯ СТРИЖКА
+                                    ПО ДОСТУПНОЙ ЦЕНЕ</h1>
                                 <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i
-                                        class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</h4>
-                                <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i
-                                        class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</h4>
+                                        class="fa fa-map-marker-alt text-primary me-3"></i>Псковская обл. Порхов г.
+                                    Кузнецова ул. дом 3</h4>
+                                <h4 class="text-white text-uppercase mb-4 animated slideInDown">
+                                    <a href="tel:+7 909 573 90 90">
+                                        <i class="fa fa-phone-alt text-primary me-3"></i>+7 909 573 90 90
+                                    </a>
+                                </h4>
                             </div>
                         </div>
                     </div>
@@ -47,10 +54,8 @@
     </div>
 </template>
 
-<script>
-export default {
+<script lang="ts" setup>
 
-}
 </script>
 
 <style></style>
