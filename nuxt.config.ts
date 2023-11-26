@@ -31,19 +31,19 @@ export default defineNuxtConfig({
           rel: "stylesheet"
         },
         {
-          href: "../assets/lib/animate/animate.min.css",
+          href: "~/assets/lib/animate/animate.min.css",
           rel: "stylesheet"
         },
         {
-          href: "../assets/lib/owlcarousel/assets/owl.carousel.min.css",
+          href: "~/assets/lib/owlcarousel/assets/owl.carousel.min.css",
           rel: "stylesheet"
         },
         {
-          href: "../assets/styles/css/bootstrap.min.css",
+          href: "~/assets/styles/css/bootstrap.min.css",
           rel: "stylesheet"
         },
         {
-          href: "../assets/styles/css/style.css",
+          href: "~/assets/styles/css/style.css",
           rel: "stylesheet"
         }
       ],
@@ -55,19 +55,19 @@ export default defineNuxtConfig({
           src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"
         },
         {
-          src: "../assets/lib/wow/wow.min.js"
+          src: "~/assets/lib/wow/wow.min.js"
         },
         {
-          src: "../assets/lib/easing/easing.min.js"
+          src: "~/assets/lib/easing/easing.min.js"
         },
         {
-          src: "../assets/lib/waypoints/waypoints.min.js"
+          src: "~/assets/lib/waypoints/waypoints.min.js"
         },
         {
-          src: "../assets/lib/owlcarousel/owl.carousel.min.js"
+          src: "~/assets/lib/owlcarousel/owl.carousel.min.js"
         },
         {
-          src: "../assets/lib/main.js"
+          src: "~/assets/lib/main.js"
         }
       ]
     },
