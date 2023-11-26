@@ -70,7 +70,7 @@ useHead({
     },
     {
       src: "/lib/main.js"
-    }
+    },
   ]
 })
 
