@@ -15,9 +15,10 @@
                                 <img class="img-fluid" src="@/assets/images/haircut.png" alt="">
                             </div>
                             <div class="ps-4">
-                                <h3 class="text-uppercase mb-3">Haircut</h3>
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.</p>
-                                <span class="text-uppercase text-primary">From $15</span>
+                                <h3 class="text-uppercase mb-3">Мужской стрижки</h3>
+                                <p>Мужские прически могут быть выполнены по желанию заказчика, любого фасона, красивые и
+                                    модельные.</p>
+                                <span class="text-uppercase text-primary">Oт 600 руб</span>
                             </div>
                             <a class="btn btn-square" href=""><i class="fa fa-plus text-primary"></i></a>
                         </div>
@@ -29,9 +30,9 @@
                                 <img class="img-fluid" src="@/assets/images/beard-trim.png" alt="">
                             </div>
                             <div class="ps-4">
-                                <h3 class="text-uppercase mb-3">Beard Trim</h3>
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.</p>
-                                <span class="text-uppercase text-primary">From $15</span>
+                                <h3 class="text-uppercase mb-3">Борода</h3>
+                                <p>Подстригание бороды, чтобы укоротить длину и придать ей красивую форму</p>
+                                <span class="text-uppercase text-primary">Oт 300 руб</span>
                             </div>
                             <a class="btn btn-square" href=""><i class="fa fa-plus text-primary"></i></a>
                         </div>
@@ -43,9 +44,9 @@
                                 <img class="img-fluid" src="@/assets/images/mans-shave.png" alt="">
                             </div>
                             <div class="ps-4">
-                                <h3 class="text-uppercase mb-3">Mans Shave</h3>
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.</p>
-                                <span class="text-uppercase text-primary">From $15</span>
+                                <h3 class="text-uppercase mb-3">МУЖСКОЕ БРИТЬЕ</h3>
+                                <p>Бритье мужчин бритвой, стрижка бороды или стрижка волос</p>
+                                <span class="text-uppercase text-primary">Oт 200 руб.</span>
                             </div>
                             <a class="btn btn-square" href=""><i class="fa fa-plus text-primary"></i></a>
                         </div>
@@ -57,9 +58,9 @@
                                 <img class="img-fluid" src="@/assets/images/hair-dyeing.png" alt="">
                             </div>
                             <div class="ps-4">
-                                <h3 class="text-uppercase mb-3">Hair Dyeing</h3>
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.</p>
-                                <span class="text-uppercase text-primary">From $15</span>
+                                <h3 class="text-uppercase mb-3">ОКРАШИВАНИЕ ВОЛОС</h3>
+                                <p>Окрашивание волос в разные цвета по желанию клиента</p>
+                                <span class="text-uppercase text-primary">Oт 300 руб.</span>
                             </div>
                             <a class="btn btn-square" href=""><i class="fa fa-plus text-primary"></i></a>
                         </div>
@@ -71,9 +72,9 @@
                                 <img class="img-fluid" src="@/assets/images/mustache.png" alt="">
                             </div>
                             <div class="ps-4">
-                                <h3 class="text-uppercase mb-3">Mustache</h3>
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.</p>
-                                <span class="text-uppercase text-primary">From $15</span>
+                                <h3 class="text-uppercase mb-3">Усы</h3>
+                                <p>Укоротить длину усов и придать им другую форму</p>
+                                <span class="text-uppercase text-primary">Oт 100 руб</span>
                             </div>
                             <a class="btn btn-square" href=""><i class="fa fa-plus text-primary"></i></a>
                         </div>
@@ -85,9 +86,9 @@
                                 <img class="img-fluid" src="@/assets/images/stacking.png" alt="">
                             </div>
                             <div class="ps-4">
-                                <h3 class="text-uppercase mb-3">Stacking</h3>
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.</p>
-                                <span class="text-uppercase text-primary">From $15</span>
+                                <h3 class="text-uppercase mb-3">Женские стрижки </h3>
+                                <p>Парикмахерские услуги женские, красивое расчесывание любых волос по желанию клиента</p>
+                                <span class="text-uppercase text-primary">Oт 600 руб.</span>
                             </div>
                             <a class="btn btn-square" href=""><i class="fa fa-plus text-primary"></i></a>
                         </div>
