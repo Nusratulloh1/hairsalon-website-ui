@@ -7,6 +7,7 @@
                     <p class="d-inline-block bg-secondary text-primary py-1 px-4">Услуги</p>
                     <h1 class="text-uppercase">Что мы предоставляем</h1>
                 </div>
+                
                 <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">

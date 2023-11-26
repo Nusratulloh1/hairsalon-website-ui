@@ -12,10 +12,12 @@
             </div>
         </div>
         <Service></Service>
+        <Price></Price>
     </div>
 </template>
 
 <script lang="ts" setup>
+import Price from '~/components/Price.vue';
 import Service from '~/components/Service.vue';
 </script>
 

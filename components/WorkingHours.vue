@@ -15,27 +15,27 @@
                         <div>
                             <div class="d-flex justify-content-between border-bottom py-2">
                                 <h6 class="text-uppercase mb-0">Понедельник</h6>
-                                <span class="text-uppercase">09:00 - 21:00</span>
+                                <span class="text-uppercase">10:00 - 19:00</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom py-2">
                                 <h6 class="text-uppercase mb-0">Вторник</h6>
-                                <span class="text-uppercase">09:00 - 21:00</span>
+                                <span class="text-uppercase">10:00 - 19:00</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom py-2">
                                 <h6 class="text-uppercase mb-0">Среда</h6>
-                                <span class="text-uppercase">09:00 - 21:00</span>
+                                <span class="text-uppercase">10:00 - 19:00</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom py-2">
                                 <h6 class="text-uppercase mb-0">Четверг</h6>
-                                <span class="text-uppercase">09:00 - 21:00</span>
+                                <span class="text-uppercase">10:00 - 19:00</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom py-2">
                                 <h6 class="text-uppercase mb-0">Пятница</h6>
-                                <span class="text-uppercase">09:00 - 21:00</span>
+                                <span class="text-uppercase">10:00 - 19:00</span>
                             </div>
                             <div class="d-flex justify-content-between py-2">
                                 <h6 class="text-uppercase mb-0">Сб / Вс</h6>
-                                <span class="text-uppercase text-primary">Закрытый</span>
+                                <span class="text-uppercase">12:00 - 18:00</span>
                             </div>
                         </div>
                     </div>
